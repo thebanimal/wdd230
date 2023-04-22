@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Assistant:wght@600&family=Libre+Caslon+Text&family=Plus+Jakarta+Sans&family=Teko:wght@600&display=swap");
+body {
+  font-family: "Plus Jakarta Sans", sans-serif;
+}
+header,
+footer {
+  background-color: navy;
+  color: white;
+  border-radius: 25px;
+}
+
+footer {
+  text-align: center;
+}
+img {
+  width: 200px;
+  grid-column: 1 2;
+}
